@@ -1,0 +1,33 @@
+#locate {
+  text-align: center;
+  position: relative;
+  margin: 2em;
+  /* border: 0.5em solid #fc6e51; */
+  border: none;
+  background-color: #ffce54;
+  color: white;
+  padding: 15px 32px;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 1em;
+}
+
+.locaterButton {
+  text-align: center;
+  position: relative;
+  margin: 2em;
+  top: 30%;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: "Montserrat", sans-serif;
+}
+
+body {
+  font-family: "Source Sans Pro", sans-serif;
+}
